@@ -144,6 +144,11 @@ body {
     font-family: alegreya;
 }
 
+.join h4{
+    font-family: alegreya;
+    font-size: 1.5rem;
+}
+
 .join h1{
     font-family: Montserrat;
     font-weight: bold;
